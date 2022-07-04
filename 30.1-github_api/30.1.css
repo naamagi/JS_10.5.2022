@@ -1,0 +1,19 @@
+
+.profiles{
+    display:flex;
+}
+a > div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border:1px solid #000;
+}
+img.pic{
+    width:100px;
+    height:100px;
+}
+
+a{
+    margin:5px;
+}
